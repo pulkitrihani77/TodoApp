@@ -1,0 +1,11 @@
+<form (ngSubmit)="onSubmit()" class = "mx-auto w-50">
+    <div class="mb-3">
+      <label for="title" class="form-label">Title</label>
+      <input type="text" class="form-control" id="title" name = "title" [(ngModel)] = "title">
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label">Description of Task</label>
+      <input type="text" class="form-control"  name="desc" [(ngModel)] = "desc">
+    </div>
+    <button type="submit" class="btn btn-success">Add Item</button>
+  </form>
