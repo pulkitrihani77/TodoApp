@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Home Page
+
+Add Todo: Add the todo topic and description.
+Steps:
+1. Add Topic
+2. Add Description
+3. Submit
+
+<img  alt="image" src="https://github.com/user-attachments/assets/46c4c5a5-5758-47ad-83e1-338e9ac7500e" width="500" height="300">
+
+## Available Todo
+
+Displays the todo.
+
+1. User can delete the todo
+2. Or mark it as done
+
+<img alt="image" src="https://github.com/user-attachments/assets/d2fc1f79-7675-4a77-9f34-d34ee640918e" width="500" height="300">
+
+
